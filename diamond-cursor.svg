@@ -1,0 +1,4 @@
+<!-- diamond-cursor.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+  <path d="M12 2L3 12l9 10 9-10L12 2zm0 2.77L17.73 12 12 18.23 6.27 12 12 4.77z"/>
+</svg>
